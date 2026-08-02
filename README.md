@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+![LDA QDA animation](https://towardsdatascience.com/wp-content/uploads/2025/12/lda-qda-1.gif)
+
 A curated learning resource covering the essential foundations of **Probability** and **Statistics** as they apply to **Machine Learning (ML)** and **Artificial Intelligence (AI)**. This repository serves as a structured reference for students, practitioners, and researchers who want to build or strengthen their mathematical foundations before diving into advanced ML/AI topics.
 
 ---
